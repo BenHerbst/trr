@@ -2,7 +2,7 @@ repo_name: BenHerbst/trr
 report_id: 53149de5e1b04af30aed1930083cc10a
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T21:49:15+00:00'
+timestamp: '2024-01-05T08:20:56+00:00'
 requested_by: BenHerbst
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/BenHerbst/trr
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/BenHerbst/trr
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -37,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/BenHerbst/trr/blob/master/package.json
   detection_source: package.json
   last_updated_by: theajack
   last_updated_on: 2022-09-28 14:03:25.000000000 Z
@@ -63,6 +66,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/BenHerbst/trr/blob/master/package.json
   detection_source: package.json
   last_updated_by: tackchen
   last_updated_on: 2020-10-21 10:09:34.000000000 Z
@@ -75,6 +79,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/BenHerbst/trr/blob/master/package.json
   detection_source: package.json
   last_updated_by: theajack
   last_updated_on: 2022-09-28 13:23:21.000000000 Z
@@ -86,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BenHerbst/trr
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -95,6 +101,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/BenHerbst/trr/blob/master/.github/workflows/eb-docs.yml
   detection_source: ".github/workflows/eb-docs.yml"
   last_updated_by: theajack
   last_updated_on: 2022-09-27 17:28:51.000000000 Z
@@ -106,6 +113,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/BenHerbst/trr/blob/master/package.json
   detection_source: package.json
   last_updated_by: tackchen
   last_updated_on: 2020-10-21 10:09:34.000000000 Z
@@ -117,6 +125,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/BenHerbst/trr/blob/master/package.json
   detection_source: package.json
   last_updated_by: theajack
   last_updated_on: 2022-09-27 17:28:51.000000000 Z
